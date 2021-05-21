@@ -1,20 +1,19 @@
 # Belajar Dengan Jenius Cryptocurrency Trading
 
-## Karya : Gun Gun Febrianza
+## Penulis : Gun Gun Febrianza
 
-### Published in 2021
+## Swap
 
+Swap adalah aktivitas untuk menukar cryptocurrency yang kita miliki dengan cryptocurrency lainnya dengan nilai yang setara. Untuk pemula yang akan melakukan swap, mereka akan membeli terlebih dahulu cryptocurrency menggunakan mata uang fiat mereka (Rupiah, Dollar, Yen). 
 
+Pembelian crypto bisa melalui cryptocurrency exchange atau sebuah broker. Setelah membeli cryptocurrency, pada case kali ini yaitu bitcoins jika anda ingin menukar 1 Bitcoins yang anda miliki dengan Dash, maka anda bisa menukarnya langsung dari bitcoins ke dash, tanpa perlu mengkonversikan dulu bitcoins ke mata uang fiat anda .
 
-## Open Library Indonesia
+Swap membantu mereduksi biasa switching dari bitcoins ke dash. Switching dapat dilakukan sebaliknya dari dash ke bitcoins, contoh lainnya seperti :
 
-### Table of Contents
+- Dari BTC ke ETH
+- Dari ETH ke BTC
+- Dari BTC ke LTC
+- Dari LTC ke Dash
 
-### Chapter 1 - Trading World
-
-#### Subchapter 1 – [Terminology](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Python/blob/main/ebooks/id/ch1/sch1/Komputer%20%26%20Pemograman.md)
-
-1. Swap
-2. Margin
-3. Future
+---------------------
 
