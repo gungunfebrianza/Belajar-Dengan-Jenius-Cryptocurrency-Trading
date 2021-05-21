@@ -4,7 +4,7 @@
 
 ## Cryptocurrency Trading
 
-Untuk melakukan cryptocurrency trading kita memerlukan sebuah layanan yang menyediakan fiat on-ramp. Apa itu Fiat on-ramp? Sebuah platform yang menyediakan layanan untuk melakukan deposito [Fiat Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/Cryptocurrency%20Trading.md#fiat-currency) untuk membeli sebuah cryptocurrency.
+Untuk melakukan cryptocurrency trading kita memerlukan sebuah layanan yang menyediakan fiat on-ramp. Apa itu Fiat on-ramp? Sebuah platform yang menyediakan layanan untuk melakukan deposito [Fiat Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) untuk membeli sebuah cryptocurrency.
 
 Salah satu layanan yang menyediakan Fiat On-ramp adalah Cryptocurrency Exchanger. Pada Cryptocurrency Exchanger kita dapat membeli dan menjual cryptocurrency. Kita juga dapat memanajemen portfolio yang kita miliki. 
 
@@ -18,13 +18,13 @@ Layanan Cryptocurrency exchanger yang harus kita pilih memiliki karakteristik :
 
 Aset Cryptocurrency yang kita simpan dalam sebuah exchange dapat disimpan ke dalam dua jenis Cryptocurrency wallet :
 
-1. Hot Wallet
+#### Hot Wallet
 
-   Wallet disimpan pada sebuah mesin komputer yang terhubung dengan internet. Digunakan cryptocurrency exchanger agar dapat diprogram untuk kemudahan dan kecepatan melakukan operasi permintaan transaksi cryptocurrency dari pengguna, namun dianggap tidak aman jika dikelola dilingkungan sistem komputer yang tidak aman dan owner yang tidak kompeten.
+Wallet disimpan pada sebuah mesin komputer yang terhubung dengan internet. Digunakan cryptocurrency exchanger agar dapat diprogram untuk kemudahan dan kecepatan melakukan operasi permintaan transaksi cryptocurrency dari pengguna, namun dianggap tidak aman jika dikelola dilingkungan sistem komputer yang tidak aman dan owner yang tidak kompeten.
 
-2. Cold Wallet
+#### Cold Wallet
 
-   Wallet disimpan secara offline, misal dalam bentuk paper wallet. Sangat aman untuk menyimpan asset cryptocurrency milik pengguna cryptocurrency exchanger, namun meningkatkan cost, beban operasi dan waktu jika terdapat operasi permintaan transaksi cryptocurrency dari pengguna.
+Wallet disimpan secara offline, misal dalam bentuk paper wallet. Sangat aman untuk menyimpan asset cryptocurrency milik pengguna cryptocurrency exchanger, namun meningkatkan cost, beban operasi dan waktu jika terdapat operasi permintaan transaksi cryptocurrency dari pengguna.
 
 ### Trading Pair
 
@@ -56,13 +56,13 @@ Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant d
 
 Margin trading adalah kegiatan spekulasi apakah harga suatu cryptocurrency akan naik atau turun. Terdapat dua opsi dalam margin trading yaitu :
 
-1. Long
+#### Long
 
-   Pada long position kita akan meminjam dana (borrow fund) dari exchange agar kekuatan untuk membeli (buying power) cryptocurrency kita tinggi, sehingga kita bisa mendapatkan profit yang besar. 
+Pada long position kita akan meminjam dana (borrow fund) dari exchange agar kekuatan untuk membeli (buying power) cryptocurrency kita tinggi, sehingga kita bisa mendapatkan profit yang besar. 
 
-2. Short
+#### Short
 
-   Pada short position kita akan meminjam asset dari exchange dan secara instant menjualnya, dan berharap kedepannya dapat dibeli lagi dengan harga yang murah untuk mendapatkan profit.
+Pada short position kita akan meminjam asset dari exchange dan secara instant menjualnya, dan berharap kedepannya dapat dibeli lagi dengan harga yang murah untuk mendapatkan profit.
 
 Pada Crypto Exchanger umumnya kita harus memindahkan terlebih dahulu cryptocurrency yang kita miliki dari spot wallet menuju margin wallet. 
 
@@ -73,20 +73,3 @@ Dan untuk maksimal peminjamannya tergantung dari saldo yang dipindahkan ke margi
 Jika anda meminjam dalam bentuk USDT, maka anda harus mengembalikannya dalam USDT juga.
 
 Margin trading dapat melipatgandakan profit dan juga resiko.
-
- ## Glossary
-
-### Fiat Currency
-
-Fiat Currency adalah mata uang yang secara legal dan sah diterbitkan oleh suatu pemerintahan.
-
-### Cold Wallet
-
-Wallet disimpan secara offline, misal dalam bentuk paper wallet.  Sangat aman untuk menyimpan asset cryptocurrency milik pengguna suatu cryptocurrency exchanger, namun meningkatkan cost, beban operasi dan waktu jika terdapat operasi permintaan transaksi cryptocurrency dari pengguna.
-
-### Hold Wallet
-
-Wallet disimpan pada sebuah mesin komputer yang terhubung dengan internet. Digunakan cryptocurrency exchanger agar dapat diprogram untuk kemudahan dan kecepatan melakukan operasi permintaan transaksi cryptocurrency dari pengguna, namun dianggap tidak aman jika dikelola dilingkungan sistem komputer yang tidak aman dan owner yang tidak kompeten.
-
----------------------
-

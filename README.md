@@ -34,4 +34,5 @@
 2. Margin
 3. Future
 
-### Glossary
+### [Glossary](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md)
+
