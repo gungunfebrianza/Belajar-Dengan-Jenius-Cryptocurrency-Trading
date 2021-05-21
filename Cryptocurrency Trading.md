@@ -32,7 +32,18 @@ Jika anda berhasil melakukan aktivitas funding cryptocurrency yaitu membeli bitc
 
 1. BTC/ETH
 2. BTC/LTC
-3. BTC/DOGE  
+3. BTC/DOGE
+
+Setelah menentukan trading pair selanjutnya kita dapat memilih melakukan spot trading atau margin trading.
+
+### Spot Trading 
+
+Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant dengan dana (fund) yang kita miliki. 
+
+1. Jika Trading Pair anda BTC/USD maka anda bisa membeli cryptocurrency bitcoins (BTC) dengan mata uang Fiat (USD) yang anda miliki. Anda juga bisa menjual cryptocurrency bitcoins (BTC) yang anda miliki untuk mendapatkan mata uang Fiat (USD).
+2. Jika Trading Pair anda LTC/BTC maka anda bisa membeli cryptocurrency (LTC) dengan cryptocurrency bitcoins (BTC) yang anda miliki. Anda juga bisa menjual cryptocurrency litecoins (LTC) yang anda miliki untuk mendapatkan cryptocurrency bitcoins (BTC).
+
+### Margin Trading
 
  ## Glossary
 
