@@ -41,9 +41,7 @@ Setelah menentukan trading pair selanjutnya kita dapat memilih melakukan spot tr
 Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant dengan dana (fund) yang kita miliki. 
 
 1. Jika Trading Pair anda BTC/USD maka anda bisa membeli cryptocurrency bitcoins (BTC) dengan mata uang Fiat (USD) yang anda miliki. Anda juga bisa menjual cryptocurrency bitcoins (BTC) yang anda miliki untuk mendapatkan mata uang Fiat (USD).
-
 2. Jika Trading Pair anda LTC/BTC maka anda bisa **membeli** cryptocurrency litecoins (LTC) dengan **menjual** cryptocurrency bitcoins (BTC) yang anda miliki. Anda juga bisa **menjual** cryptocurrency litecoins (LTC) yang anda miliki untuk **membeli** cryptocurrency bitcoins (BTC).
-
    - Trading Pair LTC/BTC untuk :
      - Beli litecoins dengan bitcoins
      - Jual litecoins untuk dapatkan bitcoins
@@ -54,9 +52,21 @@ Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant d
      - Beli USDT dengan doge
      - Jual USDT untuk dapatkan doge
 
-   
-
 ### Margin Trading
+
+Margin trading adalah kegiatan spekulasi apakah harga suatu cryptocurrency akan naik atau turun. Terdapat dua opsi dalam margin trading yaitu :
+
+1. Long
+
+   Pada long position kita akan meminjam dana (borrow fund) dari exchange agar kekuatan untuk membeli (buying power) cryptocurrency kita tinggi, sehingga kita bisa mendapatkan profit yang besar. 
+
+2. Short
+
+   Pada short position kita akan meminjam asset dari exchange dan secara instant menjualnya, dan berharap kedepannya dapat dibeli lagi dengan harga yang murah untuk mendapatkan profit.
+
+Pada Crypto Exchanger umumnya kita harus memindahkan terlebih dahulu cryptocurrency yang kita miliki dari spot wallet menuju margin wallet. Proses peminjaman cryptocurrency juga tidak gratis, terdapat bunga yang harus di bayar dalam kurun waktu perjam atau hari. 
+
+Dan untuk maksimal peminjamannya tergantung dari saldo yang dipindahkan ke margin wallet. Setelah melakukan peminjaman kita juga harus melakukan pembayaran (repay), pengembalian pembayaran sesuai dengan asset cryptocurrency yang dipinjam.
 
  ## Glossary
 
