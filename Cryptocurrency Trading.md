@@ -41,7 +41,20 @@ Setelah menentukan trading pair selanjutnya kita dapat memilih melakukan spot tr
 Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant dengan dana (fund) yang kita miliki. 
 
 1. Jika Trading Pair anda BTC/USD maka anda bisa membeli cryptocurrency bitcoins (BTC) dengan mata uang Fiat (USD) yang anda miliki. Anda juga bisa menjual cryptocurrency bitcoins (BTC) yang anda miliki untuk mendapatkan mata uang Fiat (USD).
-2. Jika Trading Pair anda LTC/BTC maka anda bisa membeli cryptocurrency (LTC) dengan cryptocurrency bitcoins (BTC) yang anda miliki. Anda juga bisa menjual cryptocurrency litecoins (LTC) yang anda miliki untuk mendapatkan cryptocurrency bitcoins (BTC).
+
+2. Jika Trading Pair anda LTC/BTC maka anda bisa **membeli** cryptocurrency litecoins (LTC) dengan **menjual** cryptocurrency bitcoins (BTC) yang anda miliki. Anda juga bisa **menjual** cryptocurrency litecoins (LTC) yang anda miliki untuk **membeli** cryptocurrency bitcoins (BTC).
+
+   - Trading Pair LTC/BTC untuk :
+     - Beli litecoins dengan bitcoins
+     - Jual litecoins untuk dapatkan bitcoins
+   - Trading Pair BTC/ETH untuk :
+     - Beli bitcoins dengan ethereum
+     - Jual bitcoins untuk dapatkan ethereum
+   - Trading Fair USDT/DOGE untuk :
+     - Beli USDT dengan doge
+     - Jual USDT untuk dapatkan doge
+
+   
 
 ### Margin Trading
 
