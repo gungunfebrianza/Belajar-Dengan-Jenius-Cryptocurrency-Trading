@@ -54,6 +54,10 @@ Spot Trading adalah kegiatan membeli dan menjual cryptocurrency secara instant d
 
 ### Margin Trading
 
+Margin adalah kepemilikan ([Equity](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#equity)) anda sebagai seorang investor atau trader yang didapatkan dengan cara meminjam (borrow) dana (fund) dari exchange yang anda gunakan. 
+
+Margin Trading artinya anda akan menggunakan dana pinjaman (Borrowed Fund) untuk diperdagangkan dalam suatu bursa cryptocurrency. Margin Account atau Margin Wallet adalah layanan yang dapat digunakan seorang trader untuk menggunakan asset yang dimilikinya sebagai jaminan (Collateral) untuk peminjaman (Loan).
+
 Margin trading adalah kegiatan spekulasi apakah harga suatu cryptocurrency akan naik atau turun. Terdapat dua opsi dalam margin trading yaitu :
 
 #### Long
