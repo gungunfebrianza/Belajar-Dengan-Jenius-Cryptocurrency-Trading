@@ -64,9 +64,15 @@ Margin trading adalah kegiatan spekulasi apakah harga suatu cryptocurrency akan 
 
    Pada short position kita akan meminjam asset dari exchange dan secara instant menjualnya, dan berharap kedepannya dapat dibeli lagi dengan harga yang murah untuk mendapatkan profit.
 
-Pada Crypto Exchanger umumnya kita harus memindahkan terlebih dahulu cryptocurrency yang kita miliki dari spot wallet menuju margin wallet. Proses peminjaman cryptocurrency juga tidak gratis, terdapat bunga yang harus di bayar dalam kurun waktu perjam atau hari. 
+Pada Crypto Exchanger umumnya kita harus memindahkan terlebih dahulu cryptocurrency yang kita miliki dari spot wallet menuju margin wallet. 
 
-Dan untuk maksimal peminjamannya tergantung dari saldo yang dipindahkan ke margin wallet. Setelah melakukan peminjaman kita juga harus melakukan pembayaran (repay), pengembalian pembayaran sesuai dengan asset cryptocurrency yang dipinjam.
+Proses peminjaman cryptocurrency juga tidak gratis, terdapat bunga yang harus di bayar dalam kurun waktu perjam atau hari. 
+
+Dan untuk maksimal peminjamannya tergantung dari saldo yang dipindahkan ke margin wallet. Setelah melakukan peminjaman kita juga harus melakukan pembayaran (repay), pengembalian pembayaran sesuai dengan asset cryptocurrency yang dipinjam. 
+
+Jika anda meminjam dalam bentuk USDT, maka anda harus mengembalikannya dalam USDT juga.
+
+Margin trading dapat melipatgandakan profit dan juga resiko.
 
  ## Glossary
 
