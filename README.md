@@ -14,7 +14,11 @@
 
 #### Subchapter 1 – Terminology
 
-1. Swap
+1. [Swap](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/Swap.md)
 2. Margin
 3. Future
+
+#### Subchapter 2 – Cryptocurrency Trading
+
+1. [Reserved]()
 
