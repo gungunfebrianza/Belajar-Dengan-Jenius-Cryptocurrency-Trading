@@ -6,13 +6,19 @@
 
 Untuk melakukan cryptocurrency trading kita memerlukan sebuah layanan yang menyediakan fiat on-ramp. Apa itu Fiat on-ramp? Sebuah platform yang menyediakan layanan untuk melakukan deposito [Fiat Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) untuk membeli sebuah cryptocurrency.
 
-Salah satu layanan yang menyediakan Fiat On-ramp adalah Cryptocurrency Exchanger. Pada Cryptocurrency Exchanger kita dapat membeli dan menjual cryptocurrency. Kita juga dapat memanajemen portfolio yang kita miliki. 
+Salah satu layanan yang menyediakan Fiat On-ramp adalah Cryptocurrency Exchange. Pada Cryptocurrency Exchange kita dapat membeli dan menjual cryptocurrency. Kita juga dapat memanajemen portfolio yang kita miliki. 
 
-### Cryptocurrency Exchanger
+### Cryptocurrency Exchange
 
-Layanan Cryptocurrency exchanger yang harus kita pilih memiliki karakteristik :
+Melalui layanan Cryptocurrency Exchange kita dapat membeli dan menjual cryptocurrency. Kita juga dapat menggunakan layanan custodial wallet yang mereka sediakan untuk menyimpan cryptocurrency yang kita miliki. Custodial artinya pengelolaan tanggung jawab aset cryptocurrency secara penuh ada ditangan mereka. 
 
-1. Secure Cryptocurrency Exchange (Most of them are Popular Exchangers).
+Melalui Cryptocurrency Exchange juga kita dapat melakukan trading cryptocurrency baik Crypto to Fiat atau Crypto to Crypto, gambaran besarnya dapat dilihat pada gambar di bawah ini :
+
+<img src="../assets/Cryptocurrency-Exchange.png"/>
+
+Layanan Cryptocurrency exchange yang harus kita pilih memiliki karakteristik :
+
+1. Secure Cryptocurrency Exchange (Most of them are Popular Exchanger).
 2. User Interface & Trading Tools (Tampilan dan peralatan bantu untuk trading)
 3. Fees (Biaya)
 
