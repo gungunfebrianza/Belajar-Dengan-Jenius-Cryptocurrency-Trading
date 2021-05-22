@@ -83,3 +83,4 @@ Dan untuk maksimal peminjamannya tergantung dari saldo yang dipindahkan ke margi
 Jika anda meminjam dalam bentuk USDT, maka anda harus mengembalikannya dalam USDT juga.
 
 Margin trading dapat melipatgandakan profit dan juga resiko.
+

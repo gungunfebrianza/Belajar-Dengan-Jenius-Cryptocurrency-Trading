@@ -30,9 +30,10 @@
 
 #### Subchapter X – Terminology
 
-1. [Swap](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Swap.md)
-2. Margin
-3. Future
+- Margin Funding
+- [Swap](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Swap.md)
+- Margin
+- Future
 
 ### [Glossary](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md)
 
