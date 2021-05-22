@@ -32,9 +32,11 @@ Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin ta
 
 Early investor didunia cryptocurrency, tepatnya mereka yang sudah melakukan investasi bitcoin dan ethereum sejak lama hari ini tentu sudah mendapatkan keuntungan yang sangat besar. Faktanya, penulis juga merasakan feeling missed the boat saat pertama kali mengenal dunia cryptocurrency.
 
-Kenapa Cryptocurrency bisa bernilai?
+Kenapa Cryptocurrency bisa bernilai? 
 
-Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini.
+Akan ada banyak terminologi dalam ekonomi yang kita kupas dalam pembahasan kali ini. Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini. Pertama kita harus memahami bahwa manusia selalu terikat dengan yang namanya kebutuhan barang (goods) dan jasa (services).
+
+
 
 
 
