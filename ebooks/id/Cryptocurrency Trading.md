@@ -36,7 +36,21 @@ Kenapa Cryptocurrency bisa bernilai?
 
 Akan ada banyak terminologi dalam ekonomi yang kita kupas dalam pembahasan kali ini. Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini. Pertama kita harus memahami bahwa manusia selalu terikat dengan yang namanya kebutuhan barang (goods) dan jasa (services).
 
+Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
+1. Gold
+
+2. Coin
+
+3. Paper Backed By Gold 
+
+   Kita dapat menukarnya kembali dengan emas (redeem) kapan saja.
+
+4. Paper Backed By Faith
+
+   Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan emas. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
+
+5. s
 
 
 
