@@ -24,6 +24,14 @@ Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
    Pada business or economist mind mereka cenderung ingin memahami pasar, seberapa besar peluang cuan, profit di sisi moneter (monetary), atau non moneter (non-monetary) seperti usulan regulasi yang bisa mereka dapatkan pada dunia dan pasar cryptocurrency.
 
+Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin tapi kebanyakan dari mereka tidak berinvestasi karena :
+
+1. Masih Mengamati dan mempelajarinya, ini sikap bijaksana agar tidak mengalami FOMO. Jadi keputusan untuk invest atau tidak invest berdasarkan pengetahuan yang ia miliki sendiri saat itu.
+2. Sudah menutup diri untuk tidak mau mempelajarinya.
+3. Feeling missed the boat, merasa telah tertinggal dari banyak peluang yang sudah terjadi di dunia cryptocurrency.
+
+
+
 ## Cryptocurrency Trading
 
 Untuk melakukan cryptocurrency trading kita memerlukan sebuah layanan yang menyediakan fiat on-ramp. Apa itu Fiat on-ramp? Sebuah platform yang menyediakan layanan untuk melakukan deposito [Fiat Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) untuk membeli sebuah cryptocurrency.
