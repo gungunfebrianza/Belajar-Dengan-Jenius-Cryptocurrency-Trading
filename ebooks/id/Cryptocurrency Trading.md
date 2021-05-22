@@ -4,7 +4,13 @@
 
 ## Cryptocurrency 
 
-Dunia Cryptocurrency diwarnai dengan ciri tingkat volatility yang sangat tinggi, sehingga ada banyak sekali uang yang hilang jika seseorang tidak memiliki pengetahuan dan penelitian yang mendalam saat investasi. Sehingga diperlukan edukasi, pelatihan dan tools yang memadai agar kita bisa meminimalisir resiko kerugian.
+Dunia Cryptocurrency diwarnai dengan ciri tingkat volatility yang sangat tinggi, sehingga ada banyak sekali orang-orang yang mendapatkan uang dalam jumlah besar dan orang-orang yang kehilangan uangnya dalam jumlah besar pula. Tepatnya jika seseorang tidak memiliki pengetahuan dan penelitian yang mendalam saat investasi. 
+
+Sehingga diperlukan edukasi, pelatihan dan tools yang memadai agar kita bisa meminimalisir resiko kerugian.
+
+Saat ini belum ada edukasi secara komplit agar bisa memahami cryptocurrency, masih banyak perbedaan pendapat dalam memberikan standard pengetahuan untuk edukasi cryptocurrency. Konflik paradigma tentang ekosistem keuangan yang baru ini terjadi karena perbedaan information asymmetry yang sangat jauh antar individu.
+
+Namun jika terus konsisten mempelajarinya kita akan menemukan struktur pengetahuan tentang cryptocurrency itu sendiri. Disini penulis ingin berbagi struktur pengetahuan tentang cryptocurrency yang telah penulis susun agar bisa dipelajari oleh pembaca.
 
 
 
