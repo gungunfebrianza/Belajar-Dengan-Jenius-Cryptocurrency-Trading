@@ -6,13 +6,23 @@
 
 Dunia Cryptocurrency diwarnai dengan ciri tingkat volatility yang sangat tinggi, sehingga ada banyak sekali orang-orang yang mendapatkan uang dalam jumlah besar dan orang-orang yang kehilangan uangnya dalam jumlah besar pula. Tepatnya jika seseorang tidak memiliki pengetahuan dan penelitian yang mendalam saat investasi. 
 
-Sehingga diperlukan edukasi, pelatihan dan tools yang memadai agar kita bisa meminimalisir resiko kerugian.
+Sehingga diperlukan edukasi, pelatihan dan tools yang memadai agar kita bisa meminimalisir resiko kerugian. Dengan begitu investor bisa memiliki pengetahuan dan pengalaman risk management yang baik.
 
 Saat ini belum ada edukasi secara komplit agar bisa memahami cryptocurrency, masih banyak perbedaan pendapat dalam memberikan standard pengetahuan untuk edukasi cryptocurrency. Konflik paradigma tentang ekosistem keuangan yang baru ini terjadi karena perbedaan information asymmetry yang sangat jauh antar individu.
 
 Namun jika terus konsisten mempelajarinya kita akan menemukan struktur pengetahuan tentang cryptocurrency itu sendiri. Disini penulis ingin berbagi struktur pengetahuan tentang cryptocurrency yang telah penulis susun agar bisa dipelajari oleh pembaca.
 
+Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
+1. **Engineer or Scientist Mind**
+
+   Pada engineer or scientist mind kita akan berfokus pada hal-hal teknis terkait teknologi yang digunakan, cara kerja teknologi dibalik protokol cryptocurrency. Pembahasan rumit seperti Cryptography, Distributed System, Blockchain, Consensus Mechanism seperti PoW, Mining pasti menarik untuk para engineer dan scientist.
+
+   Tapi untuk mereka yang business or economist minded kebanyakan topik-topik di atas dianggap kurang menarik, rumit, menakutkan, membosankan dan wasting time. Mereka hanya perlu memahami topik-topik di atas dengan bahasa yang sederhana saja, baik secara analogi atau gambaran besar.
+
+2. **Business or Economist Mind**
+
+   Pada business or economist mind mereka cenderung ingin memahami pasar, seberapa besar peluang cuan, profit di sisi moneter (monetary), atau non moneter (non-monetary) seperti usulan regulasi yang bisa mereka dapatkan pada dunia dan pasar cryptocurrency.
 
 ## Cryptocurrency Trading
 
