@@ -22,11 +22,16 @@ Apa itu Spot Price?
 
 Apa itu Funding Rate?
 
+Margin Mode
 
+- Cross
+- Isolated
 
 
 
 OKEX API
+
+Position adalah jumlah security atau asset yang dimiliki oleh seseorang. Seorang investor atau trader akan mengambil sebuah position saat mereka melakukan pembelian melalui buy order.
 
 Position Risk adalah resiko kerugian yang akan didapatkan jika terdapat perubahan harga pada suatu financial instrument.
 
@@ -34,7 +39,7 @@ Glossary
 
 - Financial Instrument adalah sebuah aset yang dapat diperdagangkan.
   - Cash
-  - Security 
+  - Security
 
 
 

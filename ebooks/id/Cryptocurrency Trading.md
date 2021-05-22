@@ -2,6 +2,12 @@
 
 ## Penulis : Gun Gun Febrianza
 
+## Cryptocurrency 
+
+Dunia Cryptocurrency diwarnai dengan ciri tingkat volatility yang sangat tinggi, sehingga ada banyak sekali uang yang hilang jika seseorang tidak memiliki pengetahuan dan penelitian yang mendalam saat investasi. Sehingga diperlukan edukasi, pelatihan dan tools yang memadai agar kita bisa meminimalisir resiko kerugian.
+
+
+
 ## Cryptocurrency Trading
 
 Untuk melakukan cryptocurrency trading kita memerlukan sebuah layanan yang menyediakan fiat on-ramp. Apa itu Fiat on-ramp? Sebuah platform yang menyediakan layanan untuk melakukan deposito [Fiat Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) untuk membeli sebuah cryptocurrency.
