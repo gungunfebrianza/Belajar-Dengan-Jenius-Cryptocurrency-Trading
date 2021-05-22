@@ -30,6 +30,14 @@ Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin ta
 2. Sudah menutup diri untuk tidak mau mempelajarinya.
 3. Feeling missed the boat, merasa telah tertinggal dari banyak peluang yang sudah terjadi di dunia cryptocurrency.
 
+Early investor didunia cryptocurrency, tepatnya mereka yang sudah melakukan investasi bitcoin dan ethereum sejak lama hari ini tentu sudah mendapatkan keuntungan yang sangat besar. Faktanya, penulis juga merasakan feeling missed the boat saat pertama kali mengenal dunia cryptocurrency.
+
+Kenapa Cryptocurrency bisa bernilai?
+
+Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini.
+
+
+
 
 
 ## Cryptocurrency Trading
