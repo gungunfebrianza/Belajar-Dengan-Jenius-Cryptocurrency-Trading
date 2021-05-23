@@ -40,11 +40,15 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
 1. Gold
 
+   Emas memiliki berbagai macam nilai yang melekat pada emas itu sendiri.
+
 2. Coin
 
 3. Paper Backed By Gold 
 
    Kita dapat menukarnya kembali dengan emas (redeem) kapan saja.
+
+   Ada masa transisi skeptism dari emas ke uang kertas, masyarakat dapat meragukan bahwa uang bisa saja dicetak melebihi dari jumlah emas itu sendiri. Namun dengan dalih adanya tim gold watcher, hal seperti itu dianggap tidak akan terjadi. 
 
 4. Paper Backed By Faith
 
