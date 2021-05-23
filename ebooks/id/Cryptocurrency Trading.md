@@ -14,6 +14,8 @@ Namun jika terus konsisten mempelajarinya kita akan menemukan struktur pengetahu
 
 Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
+<img src="../assets/Cryptocurrency-Learning-Path.png" style="zoom:100%;" />
+
 1. **Engineer or Scientist Mind**
 
    Pada engineer or scientist mind kita akan berfokus pada hal-hal teknis terkait teknologi yang digunakan, cara kerja teknologi dibalik protokol cryptocurrency. Pembahasan rumit seperti Cryptography, Distributed System, Blockchain, Consensus Mechanism seperti PoW, Mining pasti menarik untuk para engineer dan scientist.
