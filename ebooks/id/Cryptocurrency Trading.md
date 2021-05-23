@@ -32,6 +32,17 @@ Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin ta
 
 Early investor didunia cryptocurrency, tepatnya mereka yang sudah melakukan investasi bitcoin dan ethereum sejak lama hari ini tentu sudah mendapatkan keuntungan yang sangat besar. Faktanya, penulis juga merasakan feeling missed the boat saat pertama kali mengenal dunia cryptocurrency.
 
+Buffet mendapatkan 100 ribu dollar pertamanya dalam waktu 5 tahun saat usia 21 sampai 26 tahun menggunakan dua strategy :
+
+1. Never Lose Your Money
+2. Never Forget The Rule #1
+
+Jikalau pasar memiliki tingkat volatility yang sangat tinggi. Apakah mungkin kita dapat menerapkan prinsip ini?
+
+Selalu investasi pada sesuatu yang kita fahami dan yakini.
+
+Buffet akan mempelajari terlebih dahulu perusahaan atau objek yang akan dia invest. 
+
 Kenapa Cryptocurrency bisa bernilai? 
 
 Akan ada banyak terminologi dalam ekonomi yang kita kupas dalam pembahasan kali ini. Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini. Pertama kita harus memahami bahwa manusia selalu terikat dengan yang namanya kebutuhan barang (goods) dan jasa (services).
@@ -54,7 +65,11 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
    Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan emas. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
 
-5. s
+5. Credit dan Debit card
+
+   Kita percaya bahwa uang yang kita miliki tersimpan secara digital, terdata dengan aman melalui layanan perbankan yang kita pilih.
+
+6. asd
 
 
 
