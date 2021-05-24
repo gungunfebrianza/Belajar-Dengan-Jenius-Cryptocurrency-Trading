@@ -50,7 +50,9 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
    Kita dapat menukarnya kembali dengan emas (redeem) kapan saja.
 
-   Ada masa transisi skeptism dari emas ke uang kertas, masyarakat dapat meragukan bahwa uang bisa saja dicetak melebihi dari jumlah emas itu sendiri. Namun dengan dalih adanya tim gold watcher, hal seperti itu dianggap tidak akan terjadi. 
+   Ada masa transisi skeptism dari emas ke uang kertas, masyarakat dapat meragukan bahwa uang bisa saja dicetak melebihi dari jumlah emas itu sendiri. Namun dengan dalih adanya tim gold watcher yang jujur, manipulasi jumlah uang dianggap tidak akan terjadi. 
+
+   Skeptism ini hampir sama dengan orang-orang yang khawatir bahwa bitcoin juga dapat dimanipulasi namun selama banyak orang yang memverifikasi dan mencatat bitcoin dengan jujur (miner) hal seperti ini tidak akan terjadi.
 
 4. Paper Backed By Faith
 
