@@ -1,8 +1,10 @@
 # Belajar Dengan Jenius Cryptocurrency Trading
 
+## Published 2021
+
 ## Penulis : Gun Gun Febrianza
 
-## Cryptocurrency 
+# Cryptocurrency 
 
 Dunia Cryptocurrency diwarnai dengan ciri tingkat volatility yang sangat tinggi, sehingga ada banyak sekali orang-orang yang mendapatkan uang dalam jumlah besar dan orang-orang yang kehilangan uangnya dalam jumlah besar pula. Tepatnya jika seseorang tidak memiliki pengetahuan dan penelitian yang mendalam saat investasi. 
 
@@ -75,7 +77,13 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
 
 
+# Engineer & Scientist Way
 
+Di bawah ini adalah beberapa stack pengetahuan yang akan membantu kita dalam memahami teknologi cryptocurrency.   Kita akan mengupasnya satu persatu.
+
+<img src="../assets\Cryptocurrency-Knowledge-Stacks.png" style="zoom:100%;" />
+
+# Business & Economist Way
 
 ## Cryptocurrency Trading
 
