@@ -18,7 +18,9 @@ Equity adalah kepemilikan (Ownership) atas suatu asset secara bersih dari segala
 
 ### Exchange Rate
 
-Exchange Rate adalah nilai tukar pada dua buah mata uang, misal antara uang dollar dan uang yen. Exchange rate antar mata uang ditentukan di Foreign Exchange Market (Pasar Valuta Asing). Exchange rate memiliki dua elemen dasar yaitu base currency dan counter currency.
+Exchange Rate adalah nilai tukar perdagangan uang pada dua buah mata uang dalam waktu tertentu (nilai terus berubah-ubah), misal antara uang dollar dan uang yen. Exchange rate antar mata uang ditentukan di Foreign Exchange Market (Pasar Valuta Asing), namun dapat juga didapatkan diluar pasar valuta asing. 
+
+Exchange rate memiliki dua elemen dasar yaitu base currency dan counter currency.
 
 Sebagian besar pasar valuta asing menggunakan uang dollar sebagai base currency dan mata uang domestik (domestic currency) digunakan sebagai counter currency.
 

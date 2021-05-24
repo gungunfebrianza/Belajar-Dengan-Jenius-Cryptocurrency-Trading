@@ -54,12 +54,12 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
 4. Paper Backed By Faith
 
-   Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan standar emas. Uang Fiat Backed by Faith (Keyakinan), keyakinan pada apa? Pada reputasi bank central yang menerbitkannya.
+   Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan standar emas. Uang [Fiat](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) Backed by Faith (Keyakinan), keyakinan pada apa? Pada reputasi bank central yang menerbitkannya.
 
    Terdapat dua catatan penting :
 
-   - Karena uang kertas sebagai fiat kini backed by faith, meninggalkan gold standar (standar emas) maka nilai instrinsiknya adalah nol. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
-   - Karena uang kertas sebagai fiat kini backed by faith, meninggalkan gold standar (standar emas) maka akar pemikirannya adalah Modern-Monetary Theory.
+   - Karena uang kertas sebagai [fiat](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#fiat-currency) kini backed by faith, meninggalkan gold standar (standar emas) maka nilai instrinsiknya adalah nol. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
+   - Karena uang kertas sebagai fiat kini backed by faith, meninggalkan gold standar (standar emas) maka akar pemikirannya adalah **Modern-Monetary Theory (MMT)**.
 
 5. Credit dan Debit card
 
