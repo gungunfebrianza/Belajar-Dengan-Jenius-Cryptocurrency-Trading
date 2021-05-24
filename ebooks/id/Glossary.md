@@ -30,6 +30,12 @@ Sebagai contoh jika kita ingin menukar uang dollar dan yen kita akan mendapatkan
 
 Fiat Currency adalah mata uang yang secara legal dan sah diterbitkan oleh suatu pemerintahan.
 
+### #G
+
+### Gold
+
+Gold atau emas adalah medium yang dianggap sebagai uang. 
+
 ### #H
 
 ### Hot Wallet
