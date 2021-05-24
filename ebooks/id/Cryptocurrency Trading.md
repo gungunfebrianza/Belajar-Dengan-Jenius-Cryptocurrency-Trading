@@ -28,24 +28,7 @@ Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
    Pada business or economist mind mereka cenderung ingin memahami pasar, seberapa besar peluang cuan, profit di sisi moneter (monetary), atau non moneter (non-monetary) seperti usulan regulasi yang bisa mereka dapatkan pada dunia dan pasar cryptocurrency.
 
-Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin tapi kebanyakan dari mereka tidak berinvestasi karena :
 
-1. Masih Mengamati dan mempelajarinya, ini sikap bijaksana agar tidak mengalami FOMO. Jadi keputusan untuk invest atau tidak invest berdasarkan pengetahuan yang ia miliki sendiri saat itu.
-2. Sudah menutup diri untuk tidak mau mempelajarinya.
-3. Feeling missed the boat, merasa telah tertinggal dari banyak peluang yang sudah terjadi di dunia cryptocurrency.
-
-Early investor didunia cryptocurrency, tepatnya mereka yang sudah melakukan investasi bitcoin dan ethereum sejak lama hari ini tentu sudah mendapatkan keuntungan yang sangat besar. Faktanya, penulis juga merasakan feeling missed the boat saat pertama kali mengenal dunia cryptocurrency.
-
-Buffet mendapatkan 100 ribu dollar pertamanya dalam waktu 5 tahun saat usia 21 sampai 26 tahun menggunakan dua strategy :
-
-1. Never Lose Your Money
-2. Never Forget The Rule #1
-
-Jikalau pasar memiliki tingkat volatility yang sangat tinggi. Apakah mungkin kita dapat menerapkan prinsip ini?
-
-Selalu investasi pada sesuatu yang kita fahami dan yakini.
-
-Buffet akan mempelajari terlebih dahulu perusahaan atau objek yang akan dia invest. 
 
 Kenapa Cryptocurrency bisa bernilai? 
 
@@ -84,6 +67,25 @@ Di bawah ini adalah beberapa stack pengetahuan yang akan membantu kita dalam mem
 <img src="../assets\Cryptocurrency-Knowledge-Stacks.png" style="zoom:100%;" />
 
 # Business & Economist Way
+
+Ini adalah sebuah fakta sebagian besar orang mungkin sudah mengetahui bitcoin tapi kebanyakan dari mereka tidak berinvestasi karena :
+
+1. Masih Mengamati dan mempelajarinya, ini sikap bijaksana agar tidak mengalami FOMO. Jadi keputusan untuk invest atau tidak invest berdasarkan pengetahuan yang ia miliki sendiri saat itu.
+2. Sudah menutup diri untuk tidak mau mempelajarinya.
+3. Feeling missed the boat, merasa telah tertinggal dari banyak peluang yang sudah terjadi di dunia cryptocurrency.
+
+Early investor didunia cryptocurrency, tepatnya mereka yang sudah melakukan investasi bitcoin dan ethereum sejak lama hari ini tentu sudah mendapatkan keuntungan yang sangat besar. Faktanya, penulis juga merasakan feeling missed the boat saat pertama kali mengenal dunia cryptocurrency.
+
+Buffet mendapatkan 100 ribu dollar pertamanya dalam waktu 5 tahun saat usia 21 sampai 26 tahun menggunakan dua strategy :
+
+1. Never Lose Your Money
+2. Never Forget The Rule #1
+
+Jikalau pasar memiliki tingkat volatility yang sangat tinggi. Apakah mungkin kita dapat menerapkan prinsip ini?
+
+Selalu investasi pada sesuatu yang kita fahami dan yakini.
+
+Buffet akan mempelajari terlebih dahulu perusahaan atau objek yang akan dia invest. 
 
 ## Cryptocurrency Trading
 
