@@ -42,7 +42,7 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
 1. Gold
 
-   Emas memiliki berbagai macam nilai yang melekat pada emas itu sendiri.
+   Emas adalah sebuah commodity money, emas memiliki berbagai macam nilai yang melekat pada emas itu sendiri.
 
 2. Coin
 
