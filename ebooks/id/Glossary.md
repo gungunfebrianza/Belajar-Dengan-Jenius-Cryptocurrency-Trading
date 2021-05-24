@@ -18,7 +18,7 @@ Equity adalah kepemilikan (Ownership) atas suatu asset secara bersih dari segala
 
 ### Exchange Rate
 
-Exchange Rate adalah nilai tukar perdagangan uang pada dua buah mata uang dalam waktu tertentu (nilai terus berubah-ubah), misal antara uang dollar dan uang yen. Exchange rate antar mata uang ditentukan di Foreign Exchange Market (Pasar Valuta Asing), namun dapat juga didapatkan diluar pasar valuta asing. 
+Exchange Rate adalah nilai tukar perdagangan uang pada dua buah mata uang dalam waktu tertentu (nilai terus berubah-ubah secara kontinyu), misal antara uang dollar dan uang yen. Exchange rate antar mata uang ditentukan di Foreign Exchange Market (Pasar Valuta Asing), namun dapat juga didapatkan diluar pasar valuta asing. 
 
 Exchange rate memiliki dua elemen dasar yaitu base currency dan counter currency.
 
@@ -36,13 +36,19 @@ Fiat Currency adalah mata uang yang secara legal dan sah diterbitkan oleh suatu 
 
 ### Gold
 
-Gold atau emas adalah medium yang dianggap sebagai uang. 
+Gold atau emas adalah medium yang dianggap sebagai uang, tepatnya commodity money. 
 
 ### #H
 
 ### Hot Wallet
 
 Wallet disimpan pada sebuah mesin komputer yang terhubung dengan internet. Digunakan cryptocurrency exchanger agar dapat diprogram untuk kemudahan dan kecepatan melakukan operasi permintaan transaksi cryptocurrency dari pengguna, namun dianggap tidak aman jika dikelola dilingkungan sistem komputer yang tidak aman dan owner yang tidak kompeten.
+
+### #L
+
+### Liquidity
+
+Liquidity atau liquiditas adalah kemudahan untuk konversi sebuah asset atau security (sekuritas) ke dalam cash.
 
 ---------------------
 
