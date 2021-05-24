@@ -4,6 +4,8 @@
 
 ## Glossary
 
+9 Glossaries.
+
 ### #A
 
 ### Asset
@@ -49,6 +51,12 @@ Gold atau emas adalah medium yang dianggap sebagai uang, tepatnya commodity mone
 ### Hot Wallet
 
 Wallet disimpan pada sebuah mesin komputer yang terhubung dengan internet. Digunakan cryptocurrency exchanger agar dapat diprogram untuk kemudahan dan kecepatan melakukan operasi permintaan transaksi cryptocurrency dari pengguna, namun dianggap tidak aman jika dikelola dilingkungan sistem komputer yang tidak aman dan owner yang tidak kompeten.
+
+### #I
+
+### Intangible Asset
+
+Intangible Asset adalah [Asset](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Glossary.md#asset) yang tidak memiliki wujud fisik. Contoh Intangible Asset yaitu patents, trademarks, dan copyright.
 
 ### #L
 
