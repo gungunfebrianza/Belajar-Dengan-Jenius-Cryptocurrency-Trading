@@ -28,9 +28,11 @@ Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
    Pada business or economist mind mereka cenderung ingin memahami pasar, seberapa besar peluang cuan, profit di sisi moneter (monetary), atau non moneter (non-monetary) seperti usulan regulasi yang bisa mereka dapatkan pada dunia dan pasar cryptocurrency.
 
+Sebelum memilih dua jalan itu saya ingin membekali saudara-saudara dengan pengetahuan fundamental yang penulis rasa dapat dijadikan landasan agar saudara bisa berpikir kritis dan lebih jauh lagi kedepannya.
 
+## Why Cryptocurrency Valuable?
 
-Kenapa Cryptocurrency bisa bernilai? 
+Short Substantial Answer : Cryptocurrency bernilai karena orang-orang mulai mempercayainya sebagai uang, teknologi uang terbaru dan adanya pasar untuk perdagangan cryptocurrencies.
 
 Akan ada banyak terminologi dalam ekonomi yang kita kupas dalam pembahasan kali ini. Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini. Pertama kita harus memahami bahwa manusia selalu terikat dengan yang namanya kebutuhan barang (goods) dan jasa (services).
 
