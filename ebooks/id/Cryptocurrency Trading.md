@@ -30,9 +30,11 @@ Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
 Sebelum memilih dua jalan itu saya ingin membekali saudara-saudara dengan pengetahuan fundamental yang penulis rasa dapat dijadikan landasan agar saudara bisa berpikir kritis dan lebih jauh lagi kedepannya.
 
+## What is Cryptocurrency?
+
 ## Why Cryptocurrency Valuable?
 
-Short Substantial Answer : Cryptocurrency bernilai karena orang-orang mulai mempercayainya sebagai uang, teknologi uang terbaru dan adanya pasar untuk perdagangan cryptocurrencies.
+**Short Substantial Answer** : Cryptocurrency bernilai karena orang-orang mulai mempercayainya sebagai uang, teknologi uang terbaru dan adanya pasar untuk perdagangan cryptocurrencies.
 
 Akan ada banyak terminologi dalam ekonomi yang kita kupas dalam pembahasan kali ini. Kita harus memahami kembali inovasi teknologi keuangan dari zaman lampau sampai hari ini. Pertama kita harus memahami bahwa manusia selalu terikat dengan yang namanya kebutuhan barang (goods) dan jasa (services).
 
@@ -52,7 +54,12 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 
 4. Paper Backed By Faith
 
-   Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan emas. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
+   Namun di US tepatnya pada tahun 1971 di bawah nixon administration diputuskan bahwa US bahwa uang kertas tidak akan lagi dicetak berdasarkan standar emas. Uang Fiat Backed by Faith (Keyakinan), keyakinan pada apa? Pada reputasi bank central yang menerbitkannya.
+
+   Terdapat dua catatan penting :
+
+   - Karena uang kertas sebagai fiat kini backed by faith, meninggalkan gold standar (standar emas) maka nilai instrinsiknya adalah nol. The real value of fiat is zero. The 1729 quote from **Voltaire** “Paper money eventually returns to its intrinsic **value** — **zero**"
+   - Karena uang kertas sebagai fiat kini backed by faith, meninggalkan gold standar (standar emas) maka akar pemikirannya adalah Modern-Monetary Theory.
 
 5. Credit dan Debit card
 
