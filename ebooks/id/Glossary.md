@@ -4,6 +4,12 @@
 
 ## Glossary
 
+### #A
+
+### Asset
+
+Asset adalah sumber daya yang memiliki nilai ekonomi.
+
 ### #C
 
 ### Cold Wallet
