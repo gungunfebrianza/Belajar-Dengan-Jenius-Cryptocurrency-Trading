@@ -12,7 +12,18 @@
 
 ### Chapter 1 - Cryptocurrency Trading
 
-#### Subchapter 1 – Introduction
+#### Subchapter 1 – Cryptocurrency
+
+1. Learning Path
+2. What is Money?
+3. What is Cryptocurrency?
+   1. New Money
+   2. Digital Money
+   3. Global Currency
+   4. Medium of Exchange
+4. Why Cryptocurrency Valuable?
+
+#### Subchapter 2 – Business & Economist Way
 
 1. [Cryptocurrency Exchanger](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Cryptocurrency%20Trading.md#cryptocurrency-exchanger)
    - Hot Wallet
