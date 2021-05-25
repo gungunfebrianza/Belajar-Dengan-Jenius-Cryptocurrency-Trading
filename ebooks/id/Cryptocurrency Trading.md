@@ -32,9 +32,17 @@ Sebelum memilih dua jalan itu saya ingin membekali saudara-saudara dengan penget
 
 ## What is Cryptocurrency?
 
-Cryptocurrency adalah sebuah uang baru dalam hal paradigma dan transformasi.
+### New Money
+
+Cryptocurrency adalah sebuah uang baru (New Money) dalam hal paradigma dan transformasi. 
+
+Semakin maju peradaban manusia semakin kompleks pula medium yang digunakan untuk bertransaksi. Jika kita perhatikan gambar di bawah ini kita dapat melihat evolusi uang dari barter ke cryptocurrency :
 
 <img src="../assets/Cryptocurrency-Future-Money.png" style="zoom:100%;" />
+
+### Digital Money
+
+Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fisik seperti emas atau uang kertas. Digital Money artinya representasi uang dalam bentuk biner yang tersimpan dalam sistem komputer. 
 
 ## Why Cryptocurrency Valuable?
 
