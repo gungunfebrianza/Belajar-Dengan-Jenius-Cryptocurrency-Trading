@@ -42,7 +42,11 @@ Semakin maju peradaban manusia semakin kompleks pula medium yang digunakan untuk
 
 ### Digital Money
 
-Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fisik seperti emas atau uang kertas. Digital Money artinya representasi uang dalam bentuk biner yang tersimpan dalam sistem komputer. 
+Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fisik seperti emas atau uang kertas. Digital Money artinya representasi uang dalam bentuk biner yang tersimpan dalam sistem komputer.
+
+### Global Currency
+
+Cryptocurrency adalah mata uang global artinya kita dapat menggunakannya untuk bertransaksi keseluruh dunia (borderless) dan dapat diterima siapa saja dengan mudah. Kini, hampir di seluruh dunia masyarakat telah mengenal dan menggunakan cryptocurrency untuk bertransaksi.
 
 ## Why Cryptocurrency Valuable?
 
