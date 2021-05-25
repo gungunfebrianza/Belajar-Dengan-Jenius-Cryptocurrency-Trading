@@ -48,6 +48,10 @@ Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fis
 
 Cryptocurrency adalah mata uang global artinya kita dapat menggunakannya untuk bertransaksi keseluruh dunia (borderless) dan dapat diterima siapa saja dengan mudah. Kini, hampir di seluruh dunia masyarakat telah mengenal dan menggunakan cryptocurrency untuk bertransaksi.
 
+### Medium of Exchange
+
+Cryptocurrency dapat digunakan sebagai alat tukar untuk membeli barang (goods) dan jasa (service)
+
 ## Why Cryptocurrency Valuable?
 
 **Short Substantial Answer** : Cryptocurrency bernilai karena orang-orang mulai mempercayainya sebagai uang, teknologi uang terbaru dan adanya pasar untuk perdagangan cryptocurrencies.
