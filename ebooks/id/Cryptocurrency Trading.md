@@ -32,6 +32,10 @@ Sebelum memilih dua jalan itu saya ingin membekali saudara-saudara dengan penget
 
 ## What is Cryptocurrency?
 
+Cryptocurrency adalah sebuah uang baru dalam hal paradigma dan transformasi.
+
+<img src="../assets/Cryptocurrency-Future-Money.png" style="zoom:100%;" />
+
 ## Why Cryptocurrency Valuable?
 
 **Short Substantial Answer** : Cryptocurrency bernilai karena orang-orang mulai mempercayainya sebagai uang, teknologi uang terbaru dan adanya pasar untuk perdagangan cryptocurrencies.
