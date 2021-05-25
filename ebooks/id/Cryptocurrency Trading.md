@@ -14,6 +14,8 @@ Saat ini belum ada edukasi secara komplit agar bisa memahami cryptocurrency, mas
 
 Namun jika terus konsisten mempelajarinya kita akan menemukan struktur pengetahuan tentang cryptocurrency itu sendiri. Disini penulis ingin berbagi struktur pengetahuan tentang cryptocurrency yang telah penulis susun agar bisa dipelajari oleh pembaca.
 
+## Learning Path
+
 Ada dua jalan yang dapat anda pilih untuk memahami cryptocurrency :
 
 <img src="../assets/Cryptocurrency-Learning-Path.png" style="zoom:100%;" />
@@ -50,7 +52,13 @@ Cryptocurrency adalah mata uang global artinya kita dapat menggunakannya untuk b
 
 ### Medium of Exchange
 
-Cryptocurrency dapat digunakan sebagai alat tukar untuk membeli barang (goods) dan jasa (service)
+Cryptocurrency dapat digunakan sebagai alat tukar untuk membeli barang (goods) dan jasa (service).
+
+### High Volatility
+
+Tingkat volatilitas harga cryptocurrency bisa naik dan turun dengan cepat. 
+
+
 
 ## Why Cryptocurrency Valuable?
 
