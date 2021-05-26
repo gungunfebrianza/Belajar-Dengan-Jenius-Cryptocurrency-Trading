@@ -74,11 +74,13 @@ Saat ini Ray Dalio, penulis buku the principle, lebih cenderung memilih bitcoin 
 
 <img src="../assets/Cryptocurrency-Buying-Utility.png" style="zoom:100%;" />
 
-Dengan Cryptocurrency seperti bitcoin beberapa economic agent dapat menentukan role untuk menjadi penjual atau pembeli barang dan jasa. Pembelian dan penjualan dengan satu [Global Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Cryptocurrency%20Trading.md#global-currency), sehingga memberikan skala pasar yang lebih luas karena sifat cryptocurrency yang borderless.
+Dengan Cryptocurrency seperti bitcoin beberapa economic agent dapat menentukan role untuk menjadi penjual atau pembeli barang dan jasa. Cryptocurrency dapat berperan sebagai [Global Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Cryptocurrency%20Trading.md#global-currency) untuk pembeli atau penjual barang dan jasa, karakteristik ini memberikan skala pasar yang lebih luas karena sifat cryptocurrency yang borderless.
 
 Jika kita membeli barang yang dijual dengan mata uang dollar disuatu e-commerce, kita tidak perlu lagi mengkonversi domestic currency yang kita gunakan, misal rupiah atau yen ke dalam dollar. Kita dapat menggunakan cryptocurrency itu sendiri sebagai uang untuk bertransaksi.
 
-Identitas pembeli dan penjual saat bertransaksi menggunakan cryptocurrency juga terjaga, cryptocurrency menyediakan privacy untuk penggunanya. Pengguna Cryptocurrency hanya dapat dikenali melalui alamat cryptocurrency yang dimilikinya, sehingga bersifat pseudo-anonymous.
+Identitas pembeli dan penjual saat bertransaksi menggunakan cryptocurrency juga terjaga, cryptocurrency menyediakan privacy untuk penggunanya. Jika anda bertransaksi menggunakan global payment seperti Visa/Mastercard seluruh kegiatan anda tercatat. 
+
+Pengguna Cryptocurrency hanya dapat dikenali melalui alamat cryptocurrency yang dimilikinya, sehingga bersifat pseudo-anonymous.
 
 #### Transfering 
 
