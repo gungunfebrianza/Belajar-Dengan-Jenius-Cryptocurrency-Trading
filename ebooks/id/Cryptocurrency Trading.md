@@ -90,11 +90,15 @@ Saat kita bertransaksi menggunakan cryptocurrency kita sedang menggunakan paradi
 
 Paradigma dan inovasi yang meyakinkan anda bahwa teknologi saat ini sudah cukup matang untuk memasuki masa dimana transaksi uang ke seluruh dunia tidak perlu lagi menggunakan middle-man seperti perbankan. Ini adalah sebuah revolusi besar di abad ini, kita akan membicarakan cara kerja teknis protokolnya di sesi-berikutnya.
 
-Dalam cryptocurrency seperti bitcoin, terdapat banyak cases transaksi jutaan dollar namun biaya transaksinya tidak sampai 1 dollar. 
+Dalam cryptocurrency seperti bitcoin, biaya transaksi untuk pengiriman bitcoin sebesar $ 1,6 juta dollar tergolong rendah. Hanya sekitar 6.21 US Dollar, bisa kita perhatikan melalui gambar di bawah ini :
+
+<img src="../assets/Bitcoin-Fee.jpg" style="zoom:100%;" />
 
 Soal  kecepatan transaksi pada cryptocurrency, sudah sangat ideal jika dibanding dengan sistem tersentral seperti perbankan. Jika kita menggunakan layanan Liquid Bitcoin kita dapat bertransaksi dengan kecepatan mendekati instant.
 
 #### Storing
+
+
 
 ## Why Cryptocurrency Valuable?
 
