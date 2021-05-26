@@ -46,7 +46,7 @@ Semakin maju peradaban manusia semakin kompleks pula medium yang digunakan untuk
 
 ### Digital Money
 
-Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fisik seperti emas atau uang kertas. Digital Money artinya representasi uang dalam bentuk biner yang tersimpan dalam sistem komputer.
+Cryptocurrency adalah mata uang digital, artinya tidak memiliki representasi fisik seperti emas atau uang kertas. Digital Money artinya representasi uang dalam bentuk biner yang tersimpan dalam sistem komputer. Terdapat sistem dompet atau e-wallet untuk menyimpan cryptocurrency yang dapat kita pasang pada komputer atau smartphone kita.
 
 ### Global Currency
 
@@ -76,7 +76,9 @@ Saat ini Ray Dalio, penulis buku the principle, lebih cenderung memilih bitcoin 
 
 Dengan Cryptocurrency seperti bitcoin beberapa economic agent dapat menentukan role untuk menjadi penjual atau pembeli barang dan jasa. Cryptocurrency dapat berperan sebagai [Global Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Cryptocurrency%20Trading.md#global-currency) untuk pembeli atau penjual barang dan jasa, karakteristik ini memberikan skala pasar yang lebih luas karena sifat cryptocurrency yang borderless.
 
-Jika kita membeli barang yang dijual dengan mata uang dollar disuatu e-commerce, kita tidak perlu lagi mengkonversi domestic currency yang kita gunakan, misal rupiah atau yen ke dalam dollar. Kita dapat menggunakan cryptocurrency itu sendiri sebagai uang untuk bertransaksi.
+Jika kita membeli barang yang dijual dengan mata uang dollar disuatu e-commerce, kita tidak perlu lagi mengkonversi domestic currency yang kita gunakan, misal rupiah atau yen ke dalam dollar. Kita dapat menggunakan cryptocurrency itu sendiri sebagai uang untuk bertransaksi. 
+
+Kita hanya perlu mengetahui alamat dompet cryptocurrency si penjual untuk mengirimkan cryptocurrency melalui software e-wallet cryptocurrency yang kita gunakan. Pada Bitcoin, kita dapat menggunakan software bitcoin core untuk mengirimkan bitcoin sebagai media transaksi.
 
 Identitas pembeli dan penjual saat bertransaksi menggunakan cryptocurrency juga terjaga, cryptocurrency menyediakan privacy untuk penggunanya. Jika anda bertransaksi menggunakan global payment seperti Visa/Mastercard seluruh kegiatan anda tercatat. 
 
@@ -100,15 +102,17 @@ Soal kecepatan transaksi pada cryptocurrency seperti bitcoin terdapat istilah co
 
 Secara algoritma protokol bitcoin didesain memiliki waktu confirmation time rata-rata setiap 10 menit untuk menciptakan block baru, rata-rata setiap 10 menit sekali transaksi block baru akan dicatat ke dalam bitcoin blockchain, sehingga transaksi di anggap  lebih aman jika telah tertimpa block baru lagi yaitu sekitar 20 menit.
 
-Ada pula yang merekomendasikan untuk memilih waktu 3x confirmation time (3x10) sampai 30 menit agar derajat keamanannya lebih tinggi lagi karena sudah tertimpa 2 block baru, kita sendiri sebagai pengirim bitcoin dapat mengatur berapa lama confirmation time yang kita inginkan.
+Ada pula yang merekomendasikan untuk memilih waktu 3x confirmation time (10 menit + 10 menit + 10 menit) sampai 30 menit agar derajat keamanannya lebih tinggi lagi. Hal itu karena saat transaksi kita berhasil dikonfirmasi pada 10 menit sebelumnya, kita ingin data transaksi kita tertimpa 2 block baru (10 menit + 10 menit) secara teknis agar lebih sulit dimanipulasi (lebih aman). 
 
-saat buku ini ditulis rata-rata mencapai 322 menit. Ada peningkatan secara signifikan pada delay transaksi dikarenakan pengguna dalam ekosistem bitcoin kini semakin meningkat. 
-
-Anda dapat melihatnya pada gambar di bawah ini dan disini [blockchain.com](https://www.blockchain.com/charts/avg-confirmation-time) :
+Kita sendiri sebagai pengirim bitcoin dapat mengatur berapa lama confirmation time yang kita inginkan.
 
 <img src="../assets/Bitcoin-Average-Confirmation-Time.PNG" style="zoom:100%;" />
 
-Permasalahan ini dapat diselesaikan dengan cara mengikuti algoritma protokol bitcoin, jika transaksi kita ingin dipercepat
+Honestly, saat buku ini ditulis rata-rata waktu confirmation time bitcoin mencapai 322 menit. Ada peningkatan secara signifikan pada delay transaksi dikarenakan pengguna dalam ekosistem bitcoin kini semakin meningkat. 
+
+Anda dapat melihatnya pada gambar di atas pada [blockchain.com](https://www.blockchain.com/charts/avg-confirmation-time).
+
+Permasalahan ini dapat diselesaikan dengan cara mengikuti algoritma protokol bitcoin, jika transaksi kita ingin dipercepat dan diprioritaskan yaitu menggunakan fee yang disarankan oleh protokol bitcoin itu sendiri. 
 
 Ada banyak cryptocurrency lainnya yang menyelesaikan permasalahan waktu transaksi, namun saat ini penulis hanya akan berfokus pada bitcoin saja dan inovasi-inovasi turunannya. Kenapa? karena bitcoin adalah originalitas dari cryptocurrency itu sendiri.
 
