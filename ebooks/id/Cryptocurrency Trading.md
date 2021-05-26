@@ -80,7 +80,17 @@ Jika kita membeli barang yang dijual dengan mata uang dollar disuatu e-commerce,
 
 Identitas pembeli dan penjual saat bertransaksi menggunakan cryptocurrency juga terjaga, cryptocurrency menyediakan privacy untuk penggunanya. Pengguna Cryptocurrency hanya dapat dikenali melalui alamat cryptocurrency yang dimilikinya, sehingga bersifat pseudo-anonymous.
 
-Transfering
+#### Transfering 
+
+<img src="../assets/Cryptocurrency-Transferring-Utility.png" style="zoom:100%;" />
+
+Saat kita bertransaksi menggunakan cryptocurrency, uang yang kita kirim sampai pada tujuan tanpa mengandalkan layanan pihak ke 3 seperti perbankan dan jasa pengiriman uang. 
+
+Saat kita bertransaksi menggunakan cryptocurrency kita sedang menggunakan paradigma dan inovasi teknologi keuangan terbaru, antitesis dari status quo. 
+
+Paradigma dan inovasi yang meyakinkan anda bahwa teknologi saat ini sudah cukup matang untuk memasuki masa dimana transaksi uang ke seluruh dunia tidak perlu lagi menggunakan middle-man seperti perbankan. Ini adalah sebuah revolusi besar di abad ini, kita akan membicarakan cara kerja teknis protokolnya di sesi-berikutnya.
+
+#### Storing
 
 ## Why Cryptocurrency Valuable?
 
