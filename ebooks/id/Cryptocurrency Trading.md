@@ -96,10 +96,23 @@ Dalam cryptocurrency seperti bitcoin, biaya transaksi untuk pengiriman bitcoin s
 
 <img src="../assets/Bitcoin-Fee.jpg" style="zoom:100%;" />
 
-Soal kecepatan transaksi pada cryptocurrency seperti bitcoin, saat buku ini ditulis rata-rata mencapai 322 menit. Ada peningkatan secara signifikan pada delay transaksi dikarenakan pengguna dalam ekosistem bitcoin kini semakin meningkat. 
+Soal kecepatan transaksi pada cryptocurrency seperti bitcoin terdapat istilah confirmation time. Confirmation time adalah waktu yang diperlukan sampai transaksi kita di anggap valid dalam bitcoin blockchain.  
+
+Secara algoritma protokol bitcoin didesain memiliki waktu confirmation time rata-rata setiap 10 menit untuk menciptakan block baru, rata-rata setiap 10 menit sekali transaksi block baru akan dicatat ke dalam bitcoin blockchain, sehingga transaksi di anggap  lebih aman jika telah tertimpa block baru lagi yaitu sekitar 20 menit.
+
+Ada pula yang merekomendasikan untuk memilih waktu 3x confirmation time (3x10) sampai 30 menit agar derajat keamanannya lebih tinggi lagi karena sudah tertimpa 2 block baru, kita sendiri sebagai pengirim bitcoin dapat mengatur berapa lama confirmation time yang kita inginkan.
+
+saat buku ini ditulis rata-rata mencapai 322 menit. Ada peningkatan secara signifikan pada delay transaksi dikarenakan pengguna dalam ekosistem bitcoin kini semakin meningkat. 
+
 Anda dapat melihatnya pada gambar di bawah ini dan disini [blockchain.com](https://www.blockchain.com/charts/avg-confirmation-time) :
 
 <img src="../assets/Bitcoin-Average-Confirmation-Time.PNG" style="zoom:100%;" />
+
+Permasalahan ini dapat diselesaikan dengan cara mengikuti algoritma protokol bitcoin, jika transaksi kita ingin dipercepat
+
+Ada banyak cryptocurrency lainnya yang menyelesaikan permasalahan waktu transaksi, namun saat ini penulis hanya akan berfokus pada bitcoin saja dan inovasi-inovasi turunannya. Kenapa? karena bitcoin adalah originalitas dari cryptocurrency itu sendiri.
+
+
 
 sudah sangat ideal jika dibanding dengan sistem tersentral seperti perbankan. Jika kita menggunakan layanan Liquid Bitcoin kita dapat bertransaksi dengan kecepatan mendekati instant.
 
@@ -151,6 +164,8 @@ Inovasi teknologi keuangan terus berubah dan semakin rumit. Dimulai dari :
 Di bawah ini adalah beberapa stack pengetahuan yang akan membantu kita dalam memahami teknologi cryptocurrency.   Kita akan mengupasnya satu persatu.
 
 <img src="../assets\Cryptocurrency-Knowledge-Stacks.png" style="zoom:100%;" />
+
+Pada Statistika terdapat juga kajian Poisson Distribution yang digunakan protokol bitcoin untuk mencari block baru rata-rata setiap 10 menit sekali.
 
 # Business & Economist Way
 
