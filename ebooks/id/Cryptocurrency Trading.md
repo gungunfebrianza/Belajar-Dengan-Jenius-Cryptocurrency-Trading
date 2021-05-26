@@ -58,6 +58,20 @@ Cryptocurrency dapat digunakan sebagai alat tukar untuk membeli barang (goods) d
 
 Tingkat volatilitas harga cryptocurrency bisa naik dan turun dengan cepat. 
 
+### Store of Value
+
+Sebagian pengguna mempercayai bahwa cryptocurrency seperti bitcoin dapat diandalkan sebagai store of value, meskipun memahami fakta bahwa karakteristik cryptocurrency bersifat high volatility. Semakin tinggi tingkat volatilitas semakin tinggi pula gain dan loss yang akan di dapatkan. 
+
+Fakta lain saat ini adalah selain mendisrupsi ekosistem keuangan, dunia perbankan, cryptocurrency seperti bitcoin juga mendisrupsi emas. Harga bitcoin jauh lebih tinggi daripada emas. Jadi beberapa pakar seperti Ray Dalio bahkan sedang mengamati potensinya sebagai store of value.
+
+Saat ini Ray Dalio, penulis buku the principle, lebih cenderung memilih bitcoin daripada investasi ke dalam bonds.
+
+### Extended Money Utility
+
+#### Buying
+
+Dengan Cryptocurrency seperti bitcoin beberapa economic agent dapat menentukan role untuk menjadi penjual atau pembeli barang dan jasa. Pembelian dan penjualan dengan satu [Global Currency](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Cryptocurrency-Trading/blob/main/ebooks/id/Cryptocurrency%20Trading.md#global-currency), sehingga memberikan skala pasar yang lebih luas karena sifat cryptocurrency yang borderless.
+
 
 
 ## Why Cryptocurrency Valuable?
