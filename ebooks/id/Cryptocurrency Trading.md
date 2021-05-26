@@ -96,7 +96,12 @@ Dalam cryptocurrency seperti bitcoin, biaya transaksi untuk pengiriman bitcoin s
 
 <img src="../assets/Bitcoin-Fee.jpg" style="zoom:100%;" />
 
-Soal  kecepatan transaksi pada cryptocurrency, sudah sangat ideal jika dibanding dengan sistem tersentral seperti perbankan. Jika kita menggunakan layanan Liquid Bitcoin kita dapat bertransaksi dengan kecepatan mendekati instant.
+Soal kecepatan transaksi pada cryptocurrency seperti bitcoin, saat buku ini ditulis rata-rata mencapai 322 menit. Ada peningkatan secara signifikan pada delay transaksi dikarenakan pengguna dalam ekosistem bitcoin kini semakin meningkat. 
+Anda dapat melihatnya pada gambar di bawah ini dan disini [blockchain.com](https://www.blockchain.com/charts/avg-confirmation-time) :
+
+<img src="../assets/Bitcoin-Average-Confirmation-Time.PNG" style="zoom:100%;" />
+
+sudah sangat ideal jika dibanding dengan sistem tersentral seperti perbankan. Jika kita menggunakan layanan Liquid Bitcoin kita dapat bertransaksi dengan kecepatan mendekati instant.
 
 #### Storing
 
