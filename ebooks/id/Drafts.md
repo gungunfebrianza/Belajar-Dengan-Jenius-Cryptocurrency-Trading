@@ -17,7 +17,9 @@ Setiap block dalam protokol bitcoin
 
 ## vByte (Virtual Byte)
 
+Semenjak di aktifkannya segwits ukuran transaksi diekspresikan dengaan Weigh Unit. Weigh Unit dapat dikonversi kedalam Virtual Byte atau Virtual Size dengan cara membaginya dengan angka integer 4 dan pembulatan (rounding). Virtual Size menentukan seberapa besar transaksi saat membayar fee.
 
+## Non-segwits Transaction
 
 ---------------------
 
