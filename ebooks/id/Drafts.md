@@ -18,6 +18,12 @@ Contoh:3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.
 
 Format bitcoin address ini dapat digunakan untuk mengirimkan dana baik ke legacy address atau segwit address. 
 
+**Bech32 atau Segwit Address Format (addresses dimulai dengan karakter “bc1”)**
+
+Example: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
+
+Format bitcoin address yang mendukung Segwit address. Penggunaan Segwit address dapat memperkecil fees saat melakukan transaksi. Namun sebagai catatan, beberapa jasa wallet dipihak ke 3 atau exchange biasanya belum mendukung format ini.
+
 # Segwits
 
 Segwits atau Segregate Witness memberikan manfaat yaitu :
