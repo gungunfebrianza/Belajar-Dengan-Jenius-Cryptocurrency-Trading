@@ -173,7 +173,27 @@ Input yang pertama dan hanya satu yaitu :
 
 Input ini menambahkan data sebesar 41 bytes (164 WU).
 
+### # Of Outputs
 
+Nomor dari outputs `02` (2 in VarInt notation), memberikan indikasi bahwa terdapat 2 outputs yang tercipta dalam transaksi ini. Data ini menambahkan 1 byte (4 WU).
+
+### Outputs
+
+Output pertama :
+
+- Value: `6406010000000000` (67,172 satoshi, in little-endian)
+- Script Length: `16` (22 in VarInt notation)
+- ScriptPubKey: `0014093c864a10516154d18d2accd61c6b2920a2040f`
+
+Output ini menambahkan 31 bytes (124 WU). 
+
+Output yang kedua :
+
+- Value: `60361e0000000000` (1,980,000 satoshi, in little-endian)
+- Script Length: `17` (23 in VarInt notation)
+- ScriptPubKey: `a9140195e8dd3d1527038a0a77e0b0e4515d6c8ab19587`
+
+Output ini menambahkan 32 bytes (128 WU).
 
 ---------------------
 
