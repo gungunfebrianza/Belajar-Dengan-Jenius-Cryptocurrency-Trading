@@ -201,7 +201,15 @@ Witness program pada transaksi ini : ` 0247304402200760efedbcee3bbd913661fb40c36
 
 Witness Data menambahkan107 bytes (107 WU).
 
+### Locktime
 
+Locktime dari transaksi ini adalah `2b550900` (611,627  in little-endian) dan digunakan sebagai block height pada hasil transaction output ini dapat digunakan (spent). Data ini menambahkan 4 bytes (16 WU).
+
+Total transaksi ini adalah 565 WU. 
+
+Konveri ke dalam vByte akan bernilai 142 vB (dibulatkan). 
+
+Dengan [Input Value](https://blockstream.info/tx/cf923640e26f051ecca95543c03523a03461283d55ec29fe12a4cc61cb4cbaca?output:20) sebesar 0.02118172 BTC dan kombinasi dari nilai Output sebesar 0.02047172 BTC, maka fee untuk transaksi adalah fee is 0.00071 BTC (71,000 satoshi).  Maka nilai feerate pada transaksi ini sebesar 500 sat/vB.
 
 ---------------------
 
