@@ -33,6 +33,11 @@ Segwits atau Segregate Witness memberikan manfaat yaitu :
 
 Eksistensi Segwits pada bitcoin protocol menciptakan klasifikasi transaksi baru yang disebut dengan segwits transaction. 
 
+Inovasi Segwits pada protokol bitcoin menambahkan 2 format bitcoin address yaitu :
+
+1. Segwit Address
+2. Compability Address yang dapat mendukung transaksi antara legacy address dan segwit address.
+
 Setiap block dalam protokol bitcoin 
 
 ## vByte (Virtual Byte)
