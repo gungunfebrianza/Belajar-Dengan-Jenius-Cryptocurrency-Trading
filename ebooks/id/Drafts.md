@@ -161,6 +161,18 @@ Flag dengan nilai `01` (1 in VarInt notation), memberikan indikasi bahwa Witness
 
 Nomor dari inputs `01` (1 in VarInt notation) memberikan indikasi bahwa terdapat 1 input dalam transaksi. Data ini menambahkan 1 byte (4 WU).
 
+### Inputs
+
+Input yang pertama dan hanya satu yaitu :
+
+- RefTX: `caba4ccb61cca412fe29ec553d286134a02335c04355a9cc1e056fe2403692cf`
+- Output Index: `14000000` (14 in little-endian)
+- Script Length: `00` (0 in VarInt notation)
+- ScriptSig: [EMPTY]
+- Sequence: `fdffffff`
+
+Input ini menambahkan data sebesar 41 bytes (164 WU).
+
 
 
 ---------------------
