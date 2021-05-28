@@ -129,6 +129,30 @@ Dengan [Input Value](https://blockstream.info/tx/efe6905300f6d7177a9429d3f33a68e
 
 ## Segwits Transaction
 
+Segwit transaction adalah transaksi yang di dalamnya terdapat segwit input baik itu segwit address atau compability address yang di awali dengankarakter "3" atau "bc1". Selain itu pada segwit transaction juga terdapat informasi ekstra seperti witness data. Data segwit dihitung 1 WU/byte, ukurannya sangat kecil untuk ditambahkan pada transaksi.
+
+Hal inilah yang membuat segwit dapat menghemat biaya. Transaksi Segwit terdiri dari beberapa fields :
+
+- Version (4 bytes)
+- **Marker** (1 byte)
+- **Flag** (1 byte)
+- \# of Inputs (VarInt, 1 byte for numbers up to 252)
+- Inputs (varies)
+- \# of Outputs (VarInt, 1 byte for numbers up to 252)
+- Outputs (varies)
+- **Witness Data** (varies)
+- Locktime (4 bytes)
+
+Kita akan membedah lagi setiap fields dibawah ini yang bersumber dari  [Segwit Transaction](https://blockstream.info/tx/3d0acedc2f5787d2fbefa85e72ef6aac0465e78e4d3f05ae5f813488420bde38): ` 02000000000101caba4ccb61cca412fe29ec553d286134a02335c04355a9cc1e056fe2403692cf1400000000fdffffff026406010000000000160014093c864a10516154d18d2accd61c6b2920a2040f60361e000000000017a9140195e8dd3d1527038a0a77e0b0e4515d6c8ab195870247304402200760efedbcee3bbd913661fb40c364caed622b331ee3b5bc70ac25df2d3763d5022020efdb41ef325089d146eb48948b6aaec85c086fa38a3df4d2a51ee729645ebc012102be338e0362fb01101a873a7502012cb82f7d9d303b4943fa0702829a763e49762b550900` 
+
+### Version
+
+Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi selalu 4 bytes (16 WU).
+
+### Marker
+
+Marker `00` (0 in VarInt notation) memberikan indikasi bawah ini adalah segwit transaction. Sebuah nodes yang sudah mendukung segwit dapat membaca marker tersebut. Sementara untuk node yang tidak mendukung segwit akan memperlakukan marker sebagai "# of inputs" field, node menganggapnya sebagai invalid karena memiliki 0 inputs. Data ini menambahkan 1 byte (1WU)
+
 
 
 ---------------------
