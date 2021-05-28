@@ -42,6 +42,10 @@ Let's break each of these fields down by looking at a [non-segwit raw transactio
 
 Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi selalu 4 bytes (16 WU)
 
+### # of Inputs
+
+Nomor dari input adalah `01`, ini memberikan indikasi bahwa terdapat 1 input yang digunakan (spent) dalam transaksi ini. Data ini menambahkan 1 byte (4 WU) 
+
 
 
 ---------------------
