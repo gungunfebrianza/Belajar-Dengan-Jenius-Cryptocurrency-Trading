@@ -38,7 +38,10 @@ Inovasi Segwits pada protokol bitcoin menambahkan 2 format bitcoin address yaitu
 1. Segwit Address
 2. Compability Address yang dapat mendukung transaksi antara legacy address dan segwit address.
 
-Setiap block dalam protokol bitcoin 
+Size dalam bytes dan vsize dalam virtual size adalah dua metrics yang berbeda :
+
+1. Size dalam bytes adalah bytes of transaction mengacu pada serangkaian raw byte yang telah di serialisasi (serialized format) agar dapat dikirimkan lewat jaringan komputer dan disimpan ke dalam disk.
+2. Virtual size dalam vBytes adalah berat suatu transaksi (weighted size) dalam aturan segwits. Digunakan untuk membandingkan seberapa banyak blockweight yang perlu dialokasikan agar bisa mengkonfirmasi sebuah transaksi.
 
 ## vByte (Virtual Byte)
 
@@ -210,6 +213,10 @@ Total transaksi ini adalah 565 WU.
 Konveri ke dalam vByte akan bernilai 142 vB (dibulatkan). 
 
 Dengan [Input Value](https://blockstream.info/tx/cf923640e26f051ecca95543c03523a03461283d55ec29fe12a4cc61cb4cbaca?output:20) sebesar 0.02118172 BTC dan kombinasi dari nilai Output sebesar 0.02047172 BTC, maka fee untuk transaksi adalah fee is 0.00071 BTC (71,000 satoshi).  Maka nilai feerate pada transaksi ini sebesar 500 sat/vB.
+
+## Estimating Fee :
+
+Read More Here : https://bitcoin.stackexchange.com/questions/92587/calculate-transaction-fee-for-external-addresses-which-doesnt-belong-to-my-loca/92600#92600
 
 ---------------------
 
