@@ -23,8 +23,6 @@ Semenjak di aktifkannya segwits ukuran transaksi diekspresikan dengaan Weigh Uni
 
 Setiap Non-segwit byte dihitung 4 Weigh Units.
 
-Each Non-Segwit byte of data is counted is 4 WU when determining size. 
-
 Setiap transaksi terdiri dari beberapa fields berikut :
 
 - Version (4 bytes)
@@ -34,19 +32,37 @@ Setiap transaksi terdiri dari beberapa fields berikut :
 - Outputs (varies)
 - Locktime (4 bytes)
 
-Let's break each of these fields down by looking at a [non-segwit raw transaction](https://blockstream.info/tx/791bd9b3bda632ee1757de37db8939b0287ece4753f3077b9a5f5c7e28545967): ``
+Kita akan membedah setiap field dibawah ini yang bersumber dari [non-segwit raw transaction](https://blockstream.info/tx/791bd9b3bda632ee1757de37db8939b0287ece4753f3077b9a5f5c7e28545967): 
 
 `0200000001d2eed35b0d55763981c635cab7788c28e3683af3d329947a17d7f6005390e6ef010000006a47304402200ffaac8f12e56f4af66109220812b76c7d6bb0e5906cf2de235b79496b3e080b0220037304894b648fa0b50e0d82ef9f58b537233ee282ab31fc04fb3d169d2c97cc0121030120a287eb98922752a89b39df64f7f3314036f6f096341c9189b0cb3c692aaeffffffff02404ff200000000001976a9140b818b11f9624e6a2d5b757a3e8fe45db3f6647788ace0b4b401000000001976a914a1e5e47fce1c5c0868107dba3851eb696c2ead5388ac00000000`
 
 ### Version
 
-Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi selalu 4 bytes (16 WU)
+Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi selalu 4 bytes (16 WU).
 
 ### # of Inputs
 
-Nomor dari input adalah `01`, ini memberikan indikasi bahwa terdapat 1 input yang digunakan (spent) dalam transaksi ini. Data ini menambahkan 1 byte (4 WU) 
+Nomor dari input adalah `01`, ini memberikan indikasi bahwa terdapat 1 input yang digunakan (spent) dalam transaksi ini. Data ini menambahkan 1 byte (4 WU).
 
+### Input
 
+Setiap Inputs terdiri dari fields:
+
+- Referenced Transaction Hash (32 bytes)
+- Output Index (4 bytes)
+- Script Length (VarInt, 1 byte for numbers up to 252)
+- ScriptSig (varies)
+- Sequence (4 bytes)
+
+Pada contoh transaksi di atas :
+
+- RefTX: `d2eed35b0d55763981c635cab7788c28e3683af3d329947a17d7f6005390e6ef`
+- Output Index: `01000000` (1 in little-endian)
+- Script Length: `6a` (106 in VarInt notation)
+- ScriptSig: `47304402200ffaac8f12e56f4af66109220812b76c7d6bb0e5906cf2de235b79496b3e080b0220037304894b648fa0b50e0d82ef9f58b537233ee282ab31fc04fb3d169d2c97cc0121030120a287eb98922752a89b39df64f7f3314036f6f096341c9189b0cb3c692aae`
+- Sequence: `ffffffff`
+
+Secara total, input ini menambahkan 147 bytes (588 WU).
 
 ---------------------
 
