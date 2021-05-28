@@ -12,7 +12,11 @@ Contoh: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
 
 Format bitcoin address pertama kali, format ini cenderung memberikan nilai fee yang sangat tinggi saat bertransaksi. Selain itu address ini tidak dapat bersinergi dengan segwits address.
 
+**P2SH atau Compatibility Address Format (addresses dimulai dengan karakter “3”)**
 
+Contoh:3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.
+
+Format bitcoin address ini dapat digunakan untuk mengirimkan dana baik ke legacy address atau segwit address. 
 
 # Segwits
 
