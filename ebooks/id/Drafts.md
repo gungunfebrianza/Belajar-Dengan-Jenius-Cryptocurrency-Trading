@@ -89,7 +89,7 @@ Pada contoh transaksi di atas :
 
 Secara total, input ini menambahkan 147 bytes (588 WU).
 
-### of Outputs
+### # of Outputs
 
 Nomor dari outputs adalah `02` (2 in VarInt notation), ini memberikan indikasi bahwa terdapat 2 outputs yang dibuat dalam transaksi ini. Data ini menambahkan 1 byte (4 WU).
 
@@ -156,6 +156,12 @@ Marker `00` (0 in VarInt notation) memberikan indikasi bawah ini adalah segwit t
 ### Flag
 
 Flag dengan nilai `01` (1 in VarInt notation), memberikan indikasi bahwa Witness Data akan hadir pada transaksi ini. Data ini menambahkan 1 byte (1 WU).
+
+### # of Inputs
+
+Nomor dari inputs `01` (1 in VarInt notation) memberikan indikasi bahwa terdapat 1 input dalam transaksi. Data ini menambahkan 1 byte (4 WU).
+
+
 
 ---------------------
 
