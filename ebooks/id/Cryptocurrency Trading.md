@@ -114,9 +114,17 @@ Anda dapat melihatnya pada gambar di atas pada [blockchain.com](https://www.bloc
 
 Permasalahan ini dapat diselesaikan dengan cara mengikuti algoritma protokol bitcoin, jika transaksi kita ingin dipercepat dan diprioritaskan yaitu menggunakan fee yang disarankan oleh protokol bitcoin itu sendiri. 
 
-Ada banyak cryptocurrency lainnya yang menyelesaikan permasalahan waktu transaksi, namun saat ini penulis hanya akan berfokus pada bitcoin saja dan inovasi-inovasi turunannya. Kenapa? karena bitcoin adalah originalitas dari cryptocurrency itu sendiri.
+<img src="../assets/Bitcoin-Fee-Recommendation.PNG" style="zoom:100%;" />
 
+Di bawah ini adalah contoh pengaturan fee yang direkomendasikan protokol bitcoin pada saat buku ditulis jika kita memilih Confirmation time targetnya 60 menit. Jika dikonversi kerupiah sekitar 245 ribu rupiah, honestly mahal sekali ya.
 
+Jika ingin lebih cepat waktu Confirmation time targetnya menjadi 20 menit, protokol bitcoin itu sendiri akan memberikan saran rekomendasi yang lebih mahal. Jika dikonversi kerupiah sekitar 300 ribu rupiah.
+
+<img src="../assets/Bitcoin-Fee-Recommendation-High.PNG" style="zoom:100%;" />
+
+Ada banyak cryptocurrency lainnya yang menyelesaikan permasalahan waktu transaksi, namun saat ini penulis hanya akan berfokus pada bitcoin saja dan inovasi-inovasi turunannya. Kenapa? karena bitcoin adalah originalitas dari identitas cryptocurrency itu sendiri.
+
+Solusi efektif lainnya adalah mengandalkan Liquid Bitcoin (L-BTC), tanpa perlu mengkonversikan bitcoin ke dalam cryptocurrency lainnya yang cenderung menambah resiko. Saat kita mengandalkan Liquid Bitcoin (L-BTC) kecepatan transaksi kita bisa meningkat tajam menjadi kurang dari 1-2 menit. 
 
 sudah sangat ideal jika dibanding dengan sistem tersentral seperti perbankan. Jika kita menggunakan layanan Liquid Bitcoin kita dapat bertransaksi dengan kecepatan mendekati instant.
 
