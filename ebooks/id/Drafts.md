@@ -153,7 +153,9 @@ Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi se
 
 Marker `00` (0 in VarInt notation) memberikan indikasi bawah ini adalah segwit transaction. Sebuah nodes yang sudah mendukung segwit dapat membaca marker tersebut. Sementara untuk node yang tidak mendukung segwit akan memperlakukan marker sebagai "# of inputs" field, node menganggapnya sebagai invalid karena memiliki 0 inputs. Data ini menambahkan 1 byte (1WU)
 
+### Flag
 
+Flag dengan nilai `01` (1 in VarInt notation), memberikan indikasi bahwa Witness Data akan hadir pada transaksi ini. Data ini menambahkan 1 byte (1 WU).
 
 ---------------------
 
