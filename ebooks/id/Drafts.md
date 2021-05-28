@@ -44,7 +44,7 @@ Versi dari transaksi ini adalah `02000000` (2 in little-endian), ukuran versi se
 
 Nomor dari input adalah `01`, ini memberikan indikasi bahwa terdapat 1 input yang digunakan (spent) dalam transaksi ini. Data ini menambahkan 1 byte (4 WU).
 
-### Input
+### Inputs
 
 Setiap Inputs terdiri dari fields:
 
@@ -63,6 +63,36 @@ Pada contoh transaksi di atas :
 - Sequence: `ffffffff`
 
 Secara total, input ini menambahkan 147 bytes (588 WU).
+
+### of Outputs
+
+Nomor dari outputs adalah `02` (2 in VarInt notation), ini memberikan indikasi bahwa terdapat 2 outputs yang dibuat dalam transaksi ini. Data ini menambahkan 1 byte (4 WU).
+
+### Output
+
+Setiap Outputs terdiri dari fields :
+
+- Value (8 bytes)
+- Script Length (VarInt, 1 byte for numbers up to 252)
+- ScriptPubKey (varies)
+
+Pada contoh transaksi di atas terdapat 2 outputs. Output pertama :
+
+- Value: `404ff20000000000` (15,880,000 satoshi, in little-endian)
+- Script Length: `19` (25 in VarInt notation)
+- ScriptPubKey: `76a9140b818b11f9624e6a2d5b757a3e8fe45db3f6647788ac`
+
+Secara total, output ini menambahkan 34 bytes (136 WU).
+
+Output kedua :
+
+- Value: `e0b4b40100000000` (28,620,000 satoshi, in little-endian)
+- Script Length: `19` (25 in VarInt notation)
+- ScriptPubKey: `76a914a1e5e47fce1c5c0868107dba3851eb696c2ead5388ac`
+
+Secara total, output ini menambahkan 34 bytes (136 WU).
+
+
 
 ---------------------
 
