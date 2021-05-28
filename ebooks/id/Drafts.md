@@ -92,7 +92,15 @@ Output kedua :
 
 Secara total, output ini menambahkan 34 bytes (136 WU).
 
+### Locktime
 
+Pada contoht transaksi di atas nilai dari locktime adalah `00000000` (0 in little-endian). Ukuran data Locktime selalu 4 bytes (16 WU).
+
+Secara total, transaksi ini bernilai 900 WU. 
+
+Konveri ke dalam vByte akan bernilai 225 vByte. (900/4=225)
+
+Dengan [Input Value](https://blockstream.info/tx/efe6905300f6d7177a9429d3f33a68e3288c78b7ca35c6813976550d5bd3eed2?output:1) sebesar 0.4491 BTC dan kombinasi dari Output Value sebesar 0.445 BTC, total fee untuk miner sebesar 0.0041 atau 410,000 satoshi. Jika kita konversi ke dalam notasi sat/vB maka kita akan mendapatkan nilai feerate sebesar 1,822 sat/vB. 
 
 ---------------------
 
