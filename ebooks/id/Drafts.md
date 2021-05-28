@@ -195,5 +195,13 @@ Output yang kedua :
 
 Output ini menambahkan 32 bytes (128 WU).
 
+### Witness Data
+
+Witness program pada transaksi ini : ` 0247304402200760efedbcee3bbd913661fb40c364caed622b331ee3b5bc70ac25df2d3763d5022020efdb41ef325089d146eb48948b6aaec85c086fa38a3df4d2a51ee729645ebc012102be338e0362fb01101a873a7502012cb82f7d9d303b4943fa0702829a763e4976 `
+
+Witness Data menambahkan107 bytes (107 WU).
+
+
+
 ---------------------
 
